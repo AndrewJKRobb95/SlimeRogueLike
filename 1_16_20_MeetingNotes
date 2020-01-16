@@ -1,0 +1,42 @@
+roguelike
+
+use Unity Engine
+top down, panel by panel
+exit portal and you can start the boss
+
+1 character to start
+
+pixel art
+
+different weapons, and defense and utility items
+
+weapon slot, armor slot, utility slot
+
+utility: general buffs (healing, cloak, speed, etc.)
+weapons: melee
+armor: just buff
+
+slime roguelike
+
+enemies:
+grass woods: people, animals, plants (boss: main character)
+village: more people, pets and sometimes a guard (boss: city knight)
+castle: knights, guards, horses (boss: )
+
+environment:
+grass woods -> village -> city/natural area ->
+
+items:
+plot armor (unlocked on first kill)
+
+path diverges one up to heaven, one to hell
+
+TODO:
+
+Looking up free pixel
+github: JeremyPlott
+tutorials for unity
+
+
+more fleshed out game:
+once you kill the boss, your character becomes the next boss with buffed up weapons
